@@ -284,3 +284,14 @@
 ||https://r1---sn-4g5e6ns6.googlevideo.com
 ||https://r1---sn-4g5e6nl6.googlevideo.com
 ||https://r1---sn-4g5e6ne6.googlevideo.com
+||clients4.google.com^$important
+||r2---sn-ab5szn7l.googlevideo.com^$important
+||r3---sn-ab5sznld.googlevideo.com^$important
+||r1---sn-ab5szn7r.googlevideo.com^$important
+||r4---sn-ab5szn76.googlevideo.com^$important
+||r6---sn-ab5szn7e.googlevideo.com^$important
+||r5---sn-ab5szn7z.googlevideo.com^$important
+||r1---sn-ab5szn7y.googlevideo.com^$important
+||r5---sn-ab5sznle.googlevideo.com^$important
+||r2---sn-vgqsrnl6.googlevideo.com^$important
+||r3---sn-ab5szn7r.googlevideo.com^$important
